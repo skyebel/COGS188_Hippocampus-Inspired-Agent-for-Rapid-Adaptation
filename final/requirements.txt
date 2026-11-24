@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+matplotlib
+gymnasium>=1.0
+jupyter
